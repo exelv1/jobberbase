@@ -1,0 +1,8 @@
+title: Jobberbase
+description: open-source job board software
+google_analytics: UA-2849187-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
